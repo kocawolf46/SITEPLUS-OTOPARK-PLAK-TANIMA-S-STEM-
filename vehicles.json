@@ -1,0 +1,37 @@
+{
+  "06KOCA06": {
+    "daire": "B-05",
+    "model": "Toyota Corolla (Beyaz)",
+    "sahip": "Mehmet Demir",
+    "tel": "05xx",
+    "tip": "Yonetici"
+  },
+  "34ABC123": {
+    "daire": "A-12",
+    "model": "Renault Clio (Gri)",
+    "sahip": "Ahmet Yılmaz",
+    "tel": "05xx",
+    "tip": "Sakin"
+  },
+  "35IZMIR35": {
+    "daire": "A-23",
+    "model": "Volkswagen Golf (Kırmızı)",
+    "sahip": "Ayşe Kaya",
+    "tel": "05xx",
+    "tip": "Sakin"
+  },
+  "46DZ460": {
+    "daire": "C-01",
+    "model": "Honda Civic (Siyah)",
+    "sahip": "Koca Wolf",
+    "tel": "05xx",
+    "tip": "VIP"
+  },
+  "46ADS879": {
+    "sahip": "koca",
+    "model": "şahin",
+    "daire": "1",
+    "tip": "Sakin",
+    "tel": ""
+  }
+}
